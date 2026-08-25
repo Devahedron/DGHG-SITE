@@ -13,3 +13,4 @@ Features/Content:
 - Nick-Name Backstory
 
 It uses simple html, css, and javascript
+I made it for my first ever HC project and website. I followed the guide and learned some web development.
