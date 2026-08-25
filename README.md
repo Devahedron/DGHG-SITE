@@ -1,4 +1,15 @@
-# DGHG-SITE
-A little personal website made for Hack Club's Stardance program.
+# Declan's Personal Website
 
-If your name is Gusty then stop watching my activity.
+A little personal website about me.
+<img width="1438" height="898" alt="screen" src="https://github.com/user-attachments/assets/ad270aae-bfd8-417c-b134-d63d86458341" />
+
+##Visit the site: https://devahedron.github.io/DGHG-SITE/
+
+Features/Content:
+- Theme Toggle Button (dark/light mode)
+- About Me
+- Something I Enjoy
+- Projects
+- Nick-Name Backstory
+
+It uses simple html, css, and javascript
