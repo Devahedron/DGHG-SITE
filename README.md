@@ -6,6 +6,7 @@ A little personal website about me.
 ##Visit the site: https://devahedron.github.io/DGHG-SITE/
 
 Features/Content:
+- Navigation Bar
 - Theme Toggle Button (dark/light mode)
 - About Me
 - Something I Enjoy
