@@ -1,7 +1,8 @@
 # Declan's Personal Website
 
 A little personal website about me.
-<img width="1438" height="898" alt="screen" src="https://github.com/user-attachments/assets/ad270aae-bfd8-417c-b134-d63d86458341" />
+<img width="1438" height="897" alt="sitescreenshot2" src="https://github.com/user-attachments/assets/446cce64-bab5-4424-869a-67e7ee74ffc8" />
+
 
 ##Visit the site: https://devahedron.github.io/DGHG-SITE/
 
