@@ -11,3 +11,28 @@ b {
     background-color: white;
     color: black;
 }
+
+img {
+    filter: grayscale(1);
+    border: 5px solid rgb(132, 132, 132);
+}
+
+a {
+    color: rgb(39, 140, 157);
+}
+
+h1 {
+    color: rgb(53, 196, 149);
+    text-align: center;
+    font-weight: 900;
+    font-family: monospace;
+    font-size: 50;
+}
+
+h2 {
+    color: rgb(87, 139, 122);
+}
+
+nav {
+    text-align: center;
+}
