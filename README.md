@@ -4,7 +4,7 @@ A little personal website about me.
 <img width="1438" height="897" alt="sitescreenshot2" src="https://github.com/user-attachments/assets/446cce64-bab5-4424-869a-67e7ee74ffc8" />
 
 
-##Visit the site: https://devahedron.github.io/DGHG-SITE/
+## Visit the site: https://devahedron.github.io/DGHG-SITE/
 
 Features/Content:
 - Navigation Bar
